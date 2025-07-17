@@ -28,7 +28,7 @@ SQL Injection (SQLi) is a cyberattack where malicious SQL statements are inserte
 
 **Step 1: Set Up a Safe Testing Environment**
 
-You can safely test these concepts using dbfiddle.uk. Create a new fiddle to experiment with SQL queries in a controlled environment.
+You can safely test these concepts using https://dbfiddle.uk/. Create a new fiddle to experiment with SQL queries in a controlled environment.
 
 **Step 2: Create a Sample Database**
 
